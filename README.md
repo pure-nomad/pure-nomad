@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pure-nomad.
-- 👀 I’m interested in Pentesting , Red Teaming , OSINT , Social Engineering.
+- 👀 I’m interested in Pentesting , Red Teaming , OSINT , & Social Engineering.
 - 🌱 I’m currently learning Golang.
 - 📫 How to reach me twitter is best for now.
 - 😄 Pronouns: he/him
