@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pure-nomad.
-- 👀 I’m interested in Pentesting , Red Teaming , OSINT , & Social Engineering.
-- 🌱 I’m currently learning Golang.
-- 📫 How to reach me twitter is best for now.
+- 👀 Interests: Media , Pentesting , Red Teaming , OSINT , & Social Engineering
+- 🌱 Currently Learning: Golang
+- 📫 How to reach me: Twitter
 - 😄 Pronouns: he/him
 <!---
 pure-nomad/pure-nomad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
