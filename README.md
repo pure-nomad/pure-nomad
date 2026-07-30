@@ -2,7 +2,7 @@
 
 # Hi, I'm Charles Glascoe 👋
 
-### Building things with code
+I build helpful tools to help the world.
 
 <br/>
 
